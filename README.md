@@ -23,5 +23,4 @@ npm install
 
 ### Quick Demo 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=zuOJS7JTPjQ
-" target="_blank"></a>
+![Alt Text](https://media.giphy.com/media/l1J9Ho6ZZ6MKoCkJW/giphy.gif)
