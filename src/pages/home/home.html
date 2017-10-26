@@ -1,0 +1,10 @@
+
+<ion-input [(ngModel)]="myInput"></ion-input>
+      <button (click)="btnAddClicked();" ion-button color="secondary">Add</button>
+
+  <ion-list>
+    <ion-item *ngFor="let pokemon of pokemons">
+
+      <b>{{pokemon}}</b><br>
+      </ion-item>
+  </ion-list>
